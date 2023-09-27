@@ -25,3 +25,17 @@
   font-size: calc(10px + 2vmin);
   color: black;
 }
+
+.Body h1 {
+  font-size: calc(10px + 3vmin);
+  font-weight: 500;
+  margin: 10px;
+}
+
+.Body p {
+  margin: 0px;
+}
+
+.Body br {
+  margin: 5px;
+}

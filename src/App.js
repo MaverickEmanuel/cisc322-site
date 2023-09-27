@@ -9,8 +9,14 @@ function App() {
         </h1>
       </div>
       <div className="Body">
+          <h1>Group Members</h1>
           <p>
-            Put stuff here
+            Carter Brisbois<br></br>
+            Dan Munteanu<br></br>
+            Maverick Emanuel<br></br>
+            Nathan Gerryts<br></br>
+            Oliver Dantzer<br></br>
+            Trayden Boucher<br></br>
           </p>
       </div>
     </div>
