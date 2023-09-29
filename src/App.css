@@ -4,7 +4,7 @@
 }
 
 .App-header {
-  background-color: #149ecc;
+  background-color: #9abddc;
   height: 15vh;
   display: flex;
   flex-direction: column;
@@ -16,7 +16,7 @@
 }
 
 .Body {
-  background-color: white;
+  background-color: #f5fbff;
   height: 85vh;
   display: flex;
   flex-direction: column;
@@ -27,6 +27,12 @@
 }
 
 .Body h1 {
+  font-size: calc(10px + 5vmin);
+  font-weight: 600;
+  margin: 10px;
+}
+
+.Body h2 {
   font-size: calc(10px + 3vmin);
   font-weight: 500;
   margin: 10px;

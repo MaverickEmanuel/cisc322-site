@@ -5,11 +5,11 @@ function App() {
     <div className="App">
       <div className="App-header">
         <h1>
-          CISC322 Group Website
+          The Byte Badgers
         </h1>
       </div>
       <div className="Body">
-          <h1>Group Members</h1>
+          <h2>Group Members</h2>
           <p>
             Carter Brisbois<br></br>
             Dan Munteanu<br></br>
