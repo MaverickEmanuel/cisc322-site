@@ -11,25 +11,28 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
-  text-shadow: 1px 1px #0f7ea3;
+  color: black;
+  text-shadow: 1px 1px white;
 }
 
 .Body {
   background-color: #e8f7fc;
-  height: 85vh;
+  height: 200vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   font-size: calc(10px + 2vmin);
   color: black;
+  padding-bottom: 40px;
 }
 
 .Body h1 {
-  font-size: calc(10px + 5vmin);
+  font-size: calc(10px + 4vmin);
   font-weight: 600;
   margin: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .Body h2 {
@@ -44,4 +47,11 @@
 
 .Body br {
   margin: 5px;
+}
+
+.A1-pdf {
+  width: 90%;
+  height: 70%;
+  padding-top: 10px;
+  padding-bottom: 30px;
 }
