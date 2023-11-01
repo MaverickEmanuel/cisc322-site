@@ -1,5 +1,3 @@
-import ReactDOM from 'react-dom';
-import { PDFViewer } from '@react-pdf/renderer';
 import a1_report from './assets/a1_report.pdf';
 import './App.css';
 
@@ -12,8 +10,9 @@ function App() {
         </h1>
       </div>
       <div className="Body">
-        <div className="A1-pdf">
+        <div className="A1">
           <h1>Assignment 1</h1>
+          <p><a href="https://www.youtube.com/watch?v=I-CpHCy_k7o">Presentation Video</a></p>
           <object width="100%" height="100%" data={a1_report} type="application/pdf"> </object>
         </div>
         <div className="Members">

@@ -49,9 +49,13 @@
   margin: 5px;
 }
 
-.A1-pdf {
+.A1 {
   width: 90%;
   height: 70%;
   padding-top: 10px;
   padding-bottom: 30px;
+}
+
+.A1 p {
+  padding-bottom: 20px;
 }
