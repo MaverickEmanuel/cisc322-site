@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/cisc322-site/static/css/main.390f7f19.css",
-    "main.js": "/cisc322-site/static/js/main.c3a67f75.js",
+    "main.css": "/cisc322-site/static/css/main.3c366534.css",
+    "main.js": "/cisc322-site/static/js/main.c93fd72c.js",
     "static/js/787.6281c04b.chunk.js": "/cisc322-site/static/js/787.6281c04b.chunk.js",
     "static/media/a1_report.pdf": "/cisc322-site/static/media/a1_report.760e30ac3d8166ee3a9b.pdf",
+    "static/media/a2_report.pdf": "/cisc322-site/static/media/a2_report.11730fc1bbb6466480ca.pdf",
     "index.html": "/cisc322-site/index.html",
-    "main.390f7f19.css.map": "/cisc322-site/static/css/main.390f7f19.css.map",
-    "main.c3a67f75.js.map": "/cisc322-site/static/js/main.c3a67f75.js.map",
+    "main.3c366534.css.map": "/cisc322-site/static/css/main.3c366534.css.map",
+    "main.c93fd72c.js.map": "/cisc322-site/static/js/main.c93fd72c.js.map",
     "787.6281c04b.chunk.js.map": "/cisc322-site/static/js/787.6281c04b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.390f7f19.css",
-    "static/js/main.c3a67f75.js"
+    "static/css/main.3c366534.css",
+    "static/js/main.c93fd72c.js"
   ]
 }
