@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/cisc322-site/static/css/main.3c366534.css",
-    "main.js": "/cisc322-site/static/js/main.c93fd72c.js",
+    "main.css": "/cisc322-site/static/css/main.ecf2844f.css",
+    "main.js": "/cisc322-site/static/js/main.30ee7a20.js",
     "static/js/787.6281c04b.chunk.js": "/cisc322-site/static/js/787.6281c04b.chunk.js",
     "static/media/a1_report.pdf": "/cisc322-site/static/media/a1_report.760e30ac3d8166ee3a9b.pdf",
+    "static/media/a3_report.pdf": "/cisc322-site/static/media/a3_report.286f2e919dc6fb2eab4b.pdf",
     "static/media/a2_report.pdf": "/cisc322-site/static/media/a2_report.11730fc1bbb6466480ca.pdf",
     "index.html": "/cisc322-site/index.html",
-    "main.3c366534.css.map": "/cisc322-site/static/css/main.3c366534.css.map",
-    "main.c93fd72c.js.map": "/cisc322-site/static/js/main.c93fd72c.js.map",
+    "main.ecf2844f.css.map": "/cisc322-site/static/css/main.ecf2844f.css.map",
+    "main.30ee7a20.js.map": "/cisc322-site/static/js/main.30ee7a20.js.map",
     "787.6281c04b.chunk.js.map": "/cisc322-site/static/js/787.6281c04b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c366534.css",
-    "static/js/main.c93fd72c.js"
+    "static/css/main.ecf2844f.css",
+    "static/js/main.30ee7a20.js"
   ]
 }
