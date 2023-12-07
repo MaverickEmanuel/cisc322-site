@@ -1,5 +1,6 @@
 import a1_report from './assets/a1_report.pdf';
 import a2_report from './assets/a2_report.pdf';
+import a3_report from './assets/a3_report.pdf';
 import './App.css';
 
 function App() {
@@ -11,6 +12,11 @@ function App() {
         </h1>
       </div>
       <div className="Body">
+      <div className="A3">
+          <h1>Assignment 3</h1>
+          <p><a href="https://youtu.be/PxZqHa5IrtE?si=fMov0wPYFxNHnnkh">Presentation Video</a></p>
+          <object width="100%" height="100%" data={a3_report} type="application/pdf"> </object>
+        </div>
         <div className="A2">
           <h1>Assignment 2</h1>
           <p><a href="https://youtu.be/_5Jki2VroNE?si=lxrYOtVIG1nyNVYK">Presentation Video</a></p>
